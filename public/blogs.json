@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/QYTzRWW/Rectangle-1-1.png",
+      "title": "The Enigmatic Universe",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/NjrbJNK/mehedi.jpg",
+      "posted_date": "2024-01-04",
+      "reading_time": 9,
+      "hashtags": ["science", "mystery", "universe"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/g6RqsSQ/Rectangle-1-2.png",
+      "title": "Journey to the Unknown",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/NjrbJNK/mehedi.jpg",
+      "posted_date": "2024-01-03",
+      "reading_time": 15,
+      "hashtags": ["adventure", "discovery", "exploration"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/QYTzRWW/Rectangle-1-1.png",
+      "title": "In the Shadow of Giants",
+      "author": "Eva Davis",
+      "author_img": "https://i.ibb.co/NjrbJNK/mehedi.jpg",
+      "posted_date": "2024-01-02",
+      "reading_time": 12,
+      "hashtags": ["history", "legends", "ancient"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/g6RqsSQ/Rectangle-1-2.png",
+      "title": "Whispers of the Forest",
+      "author": "Charlie Brown",
+      "author_img": "https://i.ibb.co/NjrbJNK/mehedi.jpg",
+      "posted_date": "2024-01-01",
+      "reading_time": 4,
+      "hashtags": ["nature", "mystical", "trees"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/QYTzRWW/Rectangle-1-1.png",
+      "title": "Chronicles of the Starlight",
+      "author": "Grace Miller",
+      "author_img": "https://i.ibb.co/NjrbJNK/mehedi.jpg",
+      "posted_date": "2023-12-31",
+      "reading_time": 30,
+      "hashtags": ["fantasy", "space", "magic"]
+    }
+  ]
+  
